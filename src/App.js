@@ -35,6 +35,7 @@ import './App.css';
 
       return (
         <div className='App'>
+          <h1>Monsters Rolodex</h1>
           <SearchBox 
             placeHolder='Search Monster' 
             handleChange={ this.handleChgange }    
