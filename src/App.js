@@ -6,7 +6,6 @@ import { SearchBox } from './components/search-box/search-box.component.jsx';
 
 import './App.css';
 
-// function App() {
   class App extends Component {
     constructor() {
       super();
