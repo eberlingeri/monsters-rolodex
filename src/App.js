@@ -23,7 +23,7 @@ import './App.css';
     }
 
     handleChgange = (event) => {
-      //Added a different comment here.
+      // Added a new comment to describe what this function does
       this.setState({ searchField: event.target.value });
     }
 
