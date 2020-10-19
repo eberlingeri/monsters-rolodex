@@ -23,6 +23,7 @@ import './App.css';
     }
 
     handleChgange = (event) => {
+      //Added a different comment here.
       this.setState({ searchField: event.target.value });
     }
 
